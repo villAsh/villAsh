@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Bootstrap 5,Python And Django**
+- 🌱 I’m currently learning **Backend with Django**
 
-- 💬 Ask me about **HTML,CSS,Bootstrap,javascript,c++**
+- 💬 Ask me about **HTML,CSS,Bootstrap,javascript,ReactJS,TailwindCSS,Redux and Redux Toolkit,Python,c++**
 
 - 📫 How to reach me **chavhanvilas02@gmail.com**
 

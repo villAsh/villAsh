@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently Looking for React Developer Role<br>🤝 I’m looking for Open source Contribution<br>🌱 I’m currently learning Next.js<br>💬 Ask me about JavaScript-React-TaliwindCSS
+🤝 Open source Contribution<br>🌱 I’m currently learning ML
+<br>💬 Ask me about JavaScript-React-TaliwindCSS
 
 
 ## 🌐 Socials:

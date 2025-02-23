@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 Open source Contribution<br>🌱 I’m currently learning ML
+🤝 Open source Contribution<br>
 <br>💬 Ask me about JavaScript-React-TaliwindCSS
 
 
